@@ -1,6 +1,3 @@
-[submodule "storybook"]
-	path = src/components
-	url = https://github.com/jarooo7/randomKitchen/tree/main/src/components
 [submodule "randomKitchen"]
 	path = randomKitchen
 	url = https://github.com/jarooo7/randomKitchen.git
