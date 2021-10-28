@@ -1,3 +1,6 @@
 [submodule "randomKitchen"]
 	path = src/randomKitchen
 	url = https://github.com/jarooo7/randomKitchen.git
+[submodule "src/components"]
+	path = src/components
+	url = https://github.com/jarooo7/randomKitchen
